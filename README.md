@@ -32,5 +32,5 @@ It's useful for simple calculations.
 ## Author
 
 - Instagram - [lesyya.st](https://www.instagram.com/lesyya.st?igsh=MzZqZXBtdXFkbDU1)
-- Frontend Mentor - [LesyaSt](https://www.frontendmentor.io/profile/LesyaSt)
+
 - Threads - [lesyya.st](https://www.threads.net/@lesyya.st)
